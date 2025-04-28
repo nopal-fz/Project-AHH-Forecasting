@@ -1,0 +1,6 @@
+tensorflow
+keras
+pandas
+streamlit
+selenium
+beautifulsoup4
